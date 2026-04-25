@@ -1,6 +1,6 @@
 # skill-planka
 
-An [OpenClaw](https://openclaw.ai) skill for interacting with [Planka](https://planka.cloud) — the open-source kanban project management tool.
+An [OpenClaw](https://openclaw.ai) skill for interacting with [Planka](https://planka.app) — the open-source kanban project management tool.
 
 ## Features
 
