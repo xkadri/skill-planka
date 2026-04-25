@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+*.egg-info/
+.env
+.env.*
+auth.json
+config.json
