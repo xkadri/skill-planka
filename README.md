@@ -22,7 +22,7 @@ cp -r skill-planka ~/.openclaw/skills/planka
 Or clone directly:
 
 ```bash
-git clone https://github.com/urmator/skill-planka ~/.openclaw/skills/planka
+git clone https://github.com/xkadri/skill-planka ~/.openclaw/skills/planka
 ```
 
 ## Setup
