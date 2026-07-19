@@ -1,7 +1,6 @@
-*.pyc
-__pycache__/
-*.egg-info/
+node_modules/
+dist/
+*.log
 .env
 .env.*
-auth.json
-config.json
+!.env.example
